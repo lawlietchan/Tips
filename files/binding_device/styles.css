@@ -12,14 +12,14 @@
   position:absolute;
   z-index:0;
 }
-#u0 {
+#u0_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:0px;
-  height:0px;
+  width:375px;
+  height:667px;
 }
-#u1_img {
+#u0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -28,18 +28,18 @@
 }
 #u1 {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u2 {
-  position:absolute;
   left:2px;
   top:326px;
   width:371px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
 }
 #u3_img {
   position:absolute;
