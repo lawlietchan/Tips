@@ -1,0 +1,163 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:795px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u152_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u152 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u153 {
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u154 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u155_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:17px;
+}
+#u155 {
+  position:absolute;
+  left:47px;
+  top:392px;
+  width:30px;
+  height:17px;
+}
+#u156 {
+  position:absolute;
+  left:2px;
+  top:0px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u157_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:195px;
+  height:39px;
+  background:inherit;
+  background-color:rgba(254, 90, 116, 1);
+  border:none;
+  border-radius:17px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFFFF;
+}
+#u157 {
+  position:absolute;
+  left:15px;
+  top:358px;
+  width:195px;
+  height:39px;
+  color:#FFFFFF;
+}
+#u158 {
+  position:absolute;
+  left:16px;
+  top:12px;
+  width:177px;
+  word-wrap:break-word;
+}
+#u159_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:41px;
+}
+#u159 {
+  position:absolute;
+  left:19px;
+  top:341px;
+  width:30px;
+  height:41px;
+}
+#u160 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u161_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:474px;
+  height:2px;
+}
+#u161 {
+  position:absolute;
+  left:102px;
+  top:441px;
+  width:473px;
+  height:1px;
+}
+#u162 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:469px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u163_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  height:46px;
+}
+#u163 {
+  position:absolute;
+  left:575px;
+  top:427px;
+  width:220px;
+  height:46px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u164 {
+  position:absolute;
+  left:10px;
+  top:6px;
+  width:200px;
+  word-wrap:break-word;
+}
